@@ -6,6 +6,6 @@ This project will consisted in the following:
  2. Give the customer a destination map
  3. Give the user a travel itinerary map.
 ### Resources
-- https://openweathermap.org/current
+- <a href="https://openweathermap.org/current" target="_blank">Open Weather API</a>
 - https://developers.google.com/maps/documentation/places/web-service/search
 - https://developers.google.com/maps/documentation/directions/overview
